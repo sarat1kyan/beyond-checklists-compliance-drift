@@ -2,7 +2,7 @@
 
 # Beyond Checklists: Turning Compliance Drift into Real-Time Security Signals
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363338.svg)](https://doi.org/19363338)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363338.svg)](https://zenodo.org/records/19363338)
 
 **Author:** Mher Saratikyan Creator of [**Cactus**](https://justcactus.net)  
 **Date:** April 1, 2026
